@@ -36254,7 +36254,7 @@ s=s.x
 s=m.ca(0,s==null?H.aA():s)
 m=t.J
 s=M.d0(i,T.q5(C.bD,H.a([T.arD(M.d0(i,new K.B2(new L.hn("assets/images/avatar.jpg",i,i),80,i),C.n,i,i,new S.d_(i,i,F.afs(C.j,3),i,i,i,C.ae),i,i,i,i,i,i,i)),T.Ys(0,M.d0(i,i,C.n,i,i,new S.d_(i,X.R6(C.al,i,new L.hn("assets/icons/ic_bagde_1.png",i,i),i),i,i,H.a([new O.k7(3,P.aO(C.d.af(25.5),0,0,0),new P.t(0,0),3)],t.sq),i,C.ae),i,40,i,i,i,i,40),i,i,i,0,i,i)],m),C.c2),C.n,i,i,i,i,n.b*0.25*0.6,i,i,i,i,s.b*0.25*0.6)
-n=L.jt("B.S Nguy\u1ec5n Thu H\xe0",A.eQ(i,i,i,i,i,i,i,i,i,i,i,13,i,C.fa,i,i,!0,i,i,i,i,i,i,i),i,i)
+n=L.jt("B.S Nguy\u1ec5n Thu H\xe0",A.eQ(i,i,i,i,i,i,i,i,i,i,i,i,i,C.fa,i,i,!0,i,i,i,i,i,i,i),i,i)
 l=T.ack(i,1,C.en,!0,i,Q.qn(H.a([Q.qn(i,A.eQ(i,i,C.o,i,i,i,i,i,i,i,i,13,i,C.D,i,i,!0,i,i,i,i,i,i,i),"Th\xe0nh vi\xean "),Q.qn(i,A.eQ(i,i,C.iw,i,i,i,i,i,i,i,i,13,i,C.aQ,i,i,!0,i,i,i,i,i,i,i),"Standard"),Q.qn(i,A.eQ(i,i,C.o,i,i,i,i,i,i,i,i,13,i,C.D,i,i,!0,i,i,i,i,i,i,i),". 83 l\u01b0\u1ee3t ch\u1ec9 \u0111\u1ecbnh")],t.VO),i,i),C.a7,i,i,1,C.bf)
 k=F.afs(C.dt,1)
 j=K.PV(45)
