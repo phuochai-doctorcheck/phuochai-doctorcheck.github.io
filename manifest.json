@@ -1,6 +1,6 @@
 {
-    "name": "test",
-    "short_name": "test",
+    "name": "app_mobile_bacsichidinh",
+    "short_name": "app_mobile_bacsichidinh",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
